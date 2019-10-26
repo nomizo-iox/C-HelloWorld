@@ -1,0 +1,3 @@
+/Users/odyssey/Documents/Legos/C/firstC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/odyssey/Documents/Legos/C/firstC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/odyssey/Documents/Legos/C/firstC/cmake-build-debug/CMakeFiles/firstC.dir
